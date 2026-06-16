@@ -10928,7 +10928,7 @@ function Hero() {
 						className: "flex justify-center mb-6 animate-[slideUp_0.5s_ease_0.1s_forwards] opacity-0",
 						children: /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("span", {
 							className: "section-label",
-							children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)("span", { className: "w-1.5 h-1.5 rounded-full bg-[#00E5FF] animate-pulse" }), "IT-школа · Кокшетау"]
+							children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)("span", { className: "w-1.5 h-1.5 rounded-full bg-[#00E5FF] animate-pulse" }), "IT-школа · Казахстан"]
 						})
 					}),
 					/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("h1", {
